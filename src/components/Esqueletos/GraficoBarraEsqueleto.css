@@ -1,0 +1,14 @@
+.bodyGraf {
+  width: 100vw;
+  height: 75vh !important;
+  margin-left: 0 !important;
+  background-color: white;
+  max-width: 1339px !important;
+  overflow-x: hidden;
+  overflow-y: none;
+}
+
+.contEsqueleto {
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}

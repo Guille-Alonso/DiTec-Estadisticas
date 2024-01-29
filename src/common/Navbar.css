@@ -1,0 +1,23 @@
+.logoMuni2 {
+  height: 80px !important;
+  padding: 10px;
+}
+.linksSidebar {
+  text-decoration: none;
+  color: #000;
+  margin-top: 10px;
+}
+.linksSidebar:hover {
+  color: #0066ff;
+  text-decoration: underline;
+}
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root {
+  background-color: #0066ff !important;
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #0066ff !important;
+}
+.logOut {
+  margin-top: 35px;
+  margin-left: -25px;
+}
